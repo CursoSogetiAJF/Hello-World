@@ -1,2 +1,2 @@
 # Hello-World
-Repositorio práctica Github
+Repositorio práctica Github curso Sogeti
